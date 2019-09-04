@@ -8,4 +8,3 @@ num4 = 400
 
 num9 = 900 'zhangsan'
 
-zhangsan
